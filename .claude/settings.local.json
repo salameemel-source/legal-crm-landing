@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:\\\\Users\\\\USER\\\\Desktop\\\\legal-crm-landing\\\\dist\\\\assets\"\" 2>/dev/null || dir \"C:UsersUSERDesktoplegal-crm-landingdistassets \")"
+    ]
+  }
+}
